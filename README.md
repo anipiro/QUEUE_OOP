@@ -7,6 +7,8 @@
 This project is an **Object-Oriented Programming (OOP)** implementation of an employee management system for a technology company.
 The main goal is to model different employee roles using **inheritance and polymorphism**, calculate their salaries dynamically, and manage them inside a **custom array-based Priority Queue**, where priority is determined by employee salary.
 
+The project was developed as part of a university programming assignment and follows all required specifications, while also including additional validation and testing utilities. Since it was essential for me to use Georgian language throughout the whole project, most of the words are in Georgian instead of English.
+
 The project demonstrates core OOP principles alongside a manually implemented data structure.
 
 ---
